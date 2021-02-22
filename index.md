@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm Dev Joe and I will be the instructor of this course.
